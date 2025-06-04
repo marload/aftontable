@@ -82,13 +82,12 @@
     background-color: #fdfaf7;
   }
   
-  .highlight-box {
-    background-color: #fff5f8;
-    padding: 1.5rem;
-    border-radius: 8px;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
-    margin-bottom: 2rem;
-  }
+.highlight-box {
+  border: none;
+  background: none;
+  padding: 0;
+  margin-bottom: 2rem; /* optional: keeps some spacing between questions */
+}
   
   .centered-section {
     text-align: center;
